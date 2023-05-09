@@ -1,4 +1,4 @@
-# 2023_Fecal-Virome-of-Coendou-spinosus
+# 2023_Miranda_Matos_Fecal-Virome-of-Coendou-spinosus
 
 This repository contains data and results from a research paper on the Fecal Virome of Coendouspinosus.
 
